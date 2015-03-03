@@ -1,7 +1,7 @@
 Ellie Harmon
 ============
 
-[[http://ellieharmon.com]()
+<http://ellieharmon.com>
 
 PhD Candidate at UC Irvine working with Melissa Mazmanian. "In particular, I am
 interested in how ubiquitous computing technologies are part of a more diffuse
@@ -11,9 +11,9 @@ the possibility of, always doing 'more'.
 @harmon2013stories
 ------------------
 
-E. Harmon and M. Mazmanian, “Stories of the Smartphone in Everyday Discourse:
-Conflict, Tension &#38; Instability,” in Proceedings of the SIGCHI Conference
-on Human Factors in Computing Systems, New York, NY, USA, 2013, pp. 1051–1060.
+E. Harmon and M. Mazmanian, "Stories of the Smartphone in Everyday Discourse:
+Conflict, Tension &#38; Instability", in Proceedings of the SIGCHI Conference
+on Human Factors in Computing Systems, New York, NY, USA, 2013, pp. 1051-1060.
 
 Cultural discourse analysis of advertisements and news articles about
 smartphones, highlighting two tropes: increased technological integration, and
