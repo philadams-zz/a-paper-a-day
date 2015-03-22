@@ -24,4 +24,26 @@ of the study of time.
 J. T. Fraser, "Out of Plato's cave: The natural history of time", Kenyon
 Review, pp. 143–162, 1980.
 
+In this paper, Fraser revises the theory of knowledge in Plato's cave,
+inverting the presentation of time: he argues that timelessness comprises the
+darkness and the primitive, while intelligibility and light reside in the
+temporal. In unpacking this argument, Fraser describes a hierarchy of time
+using the metaphor of an arrow drawn on the page.
 
+When the head, tail, and shaft of the arrow are all well defined, future,
+present and past are all present and distinct. This represents human conscious
+awareness of flying time, from cradle to grave. This time is noetic; a noetic
+world is nootemporal. When the past and future become ill-defined and appear at
+the hazy edges of the now, we have biotemporality: the temporal world of
+infants and advanced non-human animals, and instinctual human functioning. Time with the past and future missing is eotemporal. Not everything happens at
+once, but time's directionality is missing. Subsets of the present, slivers of
+the arrow's shaft, represent prototemporal conditions present for elementary
+particles: temporal positions can only be stated in probabilistic terms. Finally, without even the arrow shaft we have a blank page and atemporal conditions: chaos.
+
+Fraser also draws on Uexkull's 'Umwelt': species-specific universes determined
+entirely by that specie's receptors and effectors, and the modern psychological
+'umwelt': the circumscribed portion of the environment which is meaningful and
+effective for a given animal species and that changes its significance in
+accordance with the mood operative at the moment. Together with the above
+hierarchy of time, Fraser explores the scale and experiences within each of the
+temporal umwelts.
